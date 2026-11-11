@@ -1,0 +1,30 @@
+{
+  "id": "aesop-north-wind-sun",
+  "title": "The North Wind and the Sun",
+  "author": "Aesop (retold)",
+  "level": 1,
+  "genres": ["fable", "classic"],
+  "summary": "北風と太陽、どちらが強い？ 旅人のコートを脱がせる勝負。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold in simple English from Aesop’s Fables (public domain).",
+    "url": "https://www.gutenberg.org/ebooks/21"
+  },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "One day, the North Wind and the Sun had an argument. “I am stronger than you,” said the North Wind. “No,” said the Sun. “I am stronger than you.”",
+        "Just then, a man walked along the road. He was wearing a warm coat.",
+        "“Let’s have a contest,” said the Sun. “Whoever can take that man’s coat off is the stronger one.” “Easy,” said the North Wind. “I will go first.”",
+        "The North Wind blew. He blew cold air at the man. The man felt cold, and he held his coat tightly.",
+        "The North Wind blew harder. Leaves flew from the trees. The man’s hat flew away. But the man pulled his coat even closer around his body.",
+        "The North Wind blew as hard as he could. But the harder he blew, the more tightly the man held his coat. At last the North Wind was tired, and he stopped.",
+        "“Now it is my turn,” said the Sun. The Sun came out from behind a cloud and shone gently on the man.",
+        "The man felt warm. He opened his coat. The Sun shone a little more brightly. The man became hot. He took off his coat and sat down under a tree to rest.",
+        "The North Wind was quiet for a long time. Then he said, “You won.”",
+        "The Sun smiled. “Kindness is often stronger than force,” she said."
+      ]
+    }
+  ]
+}

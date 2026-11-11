@@ -1,0 +1,27 @@
+{
+  "id": "original-001-new-bike",
+  "title": "A New Bike",
+  "author": "Tadoku Note (original)",
+  "level": 0,
+  "genres": ["daily"],
+  "summary": "10歳の誕生日に自転車をもらったミア。何度転んでも、また乗ってみます。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Mia is ten years old. She lives in a small town. Her house is near a park.",
+        "Today is her birthday. Her father gives her a big box. “Open it,” he says.",
+        "Mia opens the box. It is a bike! It is red and new. Mia is very happy.",
+        "“Can I ride it now?” she asks. “Yes,” says her father. “But be careful.”",
+        "Mia goes to the park. She gets on the bike. She falls down. She gets up. She tries again.",
+        "She falls down again. Her knee hurts a little. But she does not cry.",
+        "Her father holds the bike. “Look up,” he says. “Do not look at your feet.”",
+        "Mia looks up. She rides slowly. Her father lets go. Mia does not know it. She rides and rides.",
+        "“Dad, look!” she says. But her father is far away. He is smiling.",
+        "“You did it!” he says. Mia stops the bike. She laughs. “I can ride! I can really ride!”",
+        "That night, Mia puts the bike next to her bed. She looks at it for a long time. Then she sleeps with a smile."
+      ]
+    }
+  ]
+}

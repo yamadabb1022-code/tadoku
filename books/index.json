@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "books": [
+    "aesop-lion-mouse.json",
+    "original-001-new-bike.json",
+    "original-002-where-is-momo.json",
+    "aesop-north-wind-sun.json",
+    "aesop-town-country-mouse.json",
+    "original-003-rain-in-tokyo.json",
+    "original-004-last-train.json",
+    "grimm-elves-shoemaker.json",
+    "original-005-first-week-london.json",
+    "original-006-robot-tea.json",
+    "original-007-letters-mountain.json",
+    "original-008-why-we-sleep.json",
+    "ohenry-gift-of-the-magi.json"
+  ]
+}

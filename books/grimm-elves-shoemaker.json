@@ -1,0 +1,32 @@
+{
+  "id": "grimm-elves-shoemaker",
+  "title": "The Elves and the Shoemaker",
+  "author": "Brothers Grimm (retold)",
+  "level": 2,
+  "genres": ["fairy-tale", "classic"],
+  "summary": "貧しい靴屋が朝起きると、靴ができあがっている。夜中に働いていたのは誰？ グリム童話。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold in simple English from Grimms’ Fairy Tales (public domain).",
+    "url": "https://www.gutenberg.org/ebooks/2591"
+  },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "There was once a shoemaker who worked very hard, but he was very poor. At last, he had only enough leather to make one pair of shoes.",
+        "In the evening, he cut the leather carefully and left it on his table. “I will make the shoes tomorrow morning,” he said. Then he went to bed and fell asleep.",
+        "The next morning, he sat down at his table to work. To his great surprise, the shoes were already finished. They were perfect. Every stitch was small and neat. He could not have made them better himself.",
+        "Soon a customer came into the shop. He liked the shoes so much that he paid more than the usual price. With the money, the shoemaker bought enough leather for two pairs of shoes.",
+        "That evening, he cut the leather for two pairs and left it on the table. In the morning, both pairs were finished, as beautiful as before. Again, customers paid well, and he bought leather for four pairs. And so it went on. Every night he cut the leather, and every morning the shoes were ready. Soon the shoemaker was no longer poor.",
+        "One evening, not long before Christmas, the shoemaker said to his wife, “Let’s stay up tonight and see who is helping us.” His wife agreed. They lit a candle, hid behind some coats in the corner of the room, and waited.",
+        "At midnight, two tiny men came in. They had no clothes at all. They sat down at the table, picked up the leather, and began to work. Their little fingers moved so fast that the shoemaker could hardly follow them. They worked until every pair was finished. Then they jumped up and ran away.",
+        "The next morning, the wife said, “The little men have made us rich. We should thank them. They have no clothes, and they must be cold. I will make them little shirts, coats, and trousers, and you can make each of them a pair of little shoes.”",
+        "The shoemaker liked this idea very much. They worked for several days. When the clothes were ready, they put them on the table instead of the leather, and hid again to watch.",
+        "At midnight, the little men came in, ready to work. When they saw the clothes, they were surprised, and then delighted. They dressed quickly, and they danced and sang:",
+        "“Now we are fine, as you can see. No more shoemakers need we be!”",
+        "They danced around the room, jumped over the chairs, and ran out of the door. They never came back. But from that day on, the shoemaker and his wife lived happily, and everything they did went well."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "aesop-lion-mouse",
+  "title": "The Lion and the Mouse",
+  "author": "Aesop (retold)",
+  "level": 0,
+  "genres": ["fable", "classic"],
+  "summary": "小さなネズミが、網にかかった大きなライオンを助けます。イソップの有名な寓話。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold in simple English from Aesop’s Fables (public domain).",
+    "url": "https://www.gutenberg.org/ebooks/21"
+  },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "A big lion is sleeping under a tree. A little mouse runs over his face. The lion wakes up. He is angry. He puts his big paw on the mouse.",
+        "“Please don’t eat me!” says the mouse. “Let me go. One day, I can help you.”",
+        "The lion laughs. “You? Help me? You are so small!” But he is not hungry, and the mouse is funny. So he lets the mouse go.",
+        "A few days later, some hunters come to the forest. They want to catch the lion. They put a big net on the ground. The lion walks into the net. He cannot get out. He roars and roars.",
+        "The little mouse hears the lion. She runs to him. She sees the net. “Don’t worry,” she says. “I can help.”",
+        "The mouse has small, sharp teeth. She bites the net. She bites and bites. Soon there is a big hole in the net. The lion walks out. He is free!",
+        "“Thank you, little mouse,” says the lion. “You were right. A small friend can be a great friend.”"
+      ]
+    }
+  ]
+}

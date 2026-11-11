@@ -1,0 +1,28 @@
+{
+  "id": "original-002-where-is-momo",
+  "title": "Where Is Momo?",
+  "author": "Tadoku Note (original)",
+  "level": 0,
+  "genres": ["daily"],
+  "summary": "朝、猫のモモがいない！ ケンは家じゅうを探します。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Momo is a small white cat. She lives with Ken and his mother.",
+        "One morning, Ken cannot find Momo. She is not on the sofa. She is not under the table. She is not in the kitchen.",
+        "“Mom, where is Momo?” Ken asks. “I don’t know,” his mother says. “Look in your room.”",
+        "Ken looks in his room. He looks under the bed. He looks in the closet. No Momo.",
+        "Ken goes outside. He looks in the garden. He looks in the tree. “Momo! Momo!” he calls. No cat.",
+        "Ken is sad. He sits down on the steps. Maybe Momo is lost. Maybe she is cold and hungry.",
+        "Then he hears a sound. “Meow.” It is very small. Where is it?",
+        "“Meow.” Ken stands up. The sound is near the car. He looks in the car. No. He looks under the car. No.",
+        "He opens the big box next to the car. It is a box for old clothes. And there is Momo! She is sleeping on an old blue sweater.",
+        "Momo opens her eyes. She looks at Ken. “Meow,” she says. She is not lost. She is warm and happy.",
+        "Ken laughs. He picks her up. “You are a bad cat,” he says. But he is smiling.",
+        "Now the old blue sweater is Momo’s bed. She sleeps on it every day."
+      ]
+    }
+  ]
+}

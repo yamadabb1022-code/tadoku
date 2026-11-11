@@ -1,0 +1,24 @@
+{
+  "id": "original-008-why-we-sleep",
+  "title": "Why Do We Sleep?",
+  "author": "Tadoku Note (original)",
+  "level": 3,
+  "genres": ["nonfiction", "science"],
+  "summary": "人生の約3分の1を占める睡眠。脳と体は眠っている間に何をしているのか、やさしく紹介します。",
+  "source": { "type": "original", "note": "Original text written for this app. General information only." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Every night, we lie down, close our eyes, and lose contact with the world for several hours. If you add it up, a person who lives to eighty spends around twenty-five years asleep. For a long time, scientists were not sure why we need so much sleep. Today, we know much more, although there are still many questions.",
+        "Sleep is not one simple state. During the night, the brain moves through cycles that last roughly ninety minutes. Each cycle includes light sleep, deep sleep, and a stage called REM sleep. REM stands for “rapid eye movement,” because the eyes move quickly under the eyelids during this stage. Most vivid dreams happen during REM sleep.",
+        "One important job of sleep seems to be helping memory. During the day, we take in a huge amount of information. During sleep, the brain appears to sort through it, keeping some memories and making them stronger. In many experiments, people who slept after learning something remembered it better than people who stayed awake.",
+        "Sleep also seems to help clean the brain. Researchers have found that, in animals, fluid flows through the brain more easily during sleep. This may help remove waste products that build up while we are awake.",
+        "The body uses sleep, too. Growth hormone is released during deep sleep, and the immune system, which protects us from illness, works better when we get enough rest. People who sleep badly for a long time are more likely to have various health problems.",
+        "So how much sleep do we need? It depends on age. Babies may sleep more than twelve hours a day, while most adults need around seven to nine hours. Teenagers often need more sleep than adults, and their body clocks also tend to make them sleepy later at night.",
+        "Many modern habits make good sleep harder. Bright screens late at night, coffee in the afternoon, and irregular bedtimes can all affect how quickly we fall asleep and how well we sleep. Experts often recommend simple changes: going to bed at the same time every day, keeping the bedroom dark and cool, and putting the phone away before bed.",
+        "Sleep is sometimes seen as wasted time, time we could use for work or fun. But science suggests the opposite. Sleep is when the brain and body do some of their most important work. Perhaps the best thing you can do after reading this is simple: get a good night’s sleep."
+      ]
+    }
+  ]
+}

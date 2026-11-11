@@ -1,0 +1,32 @@
+{
+  "id": "aesop-town-country-mouse",
+  "title": "The Town Mouse and the Country Mouse",
+  "author": "Aesop (retold)",
+  "level": 1,
+  "genres": ["fable", "classic"],
+  "summary": "田舎のネズミが町のいとこを訪ねると、ごちそうと危険がいっぱい。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold in simple English from Aesop’s Fables (public domain).",
+    "url": "https://www.gutenberg.org/ebooks/21"
+  },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Once there was a mouse who lived in the country. His house was a small hole under an old tree. He ate seeds, beans, and bits of bread from the farm. His life was simple and quiet.",
+        "One day, his cousin came to visit. She lived in the town, in a big house. She wore a fine little coat and spoke quickly.",
+        "The Country Mouse was happy to see her. He gave her the best food he had: some beans, some seeds, and a piece of hard cheese. The Town Mouse ate a little, but she did not look happy.",
+        "“How can you live like this?” she said. “This food is so plain, and it is so quiet here. Come to the town with me. I will show you how to live well.”",
+        "So the next day, the two mice went to the town. The Town Mouse lived in a large house with long tables and bright lights. In the dining room, they found what was left of a great dinner: cakes, fruit, meat, and soft white bread.",
+        "“Eat as much as you like,” said the Town Mouse. The Country Mouse could not believe his eyes. He took a piece of cake. It was the best thing he had ever tasted.",
+        "But just then, the door opened. Two people came in, talking loudly. The mice jumped off the table and ran into a hole in the wall. They waited in the dark, their hearts beating fast.",
+        "When the people left, the mice came out again. The Country Mouse picked up a piece of cheese. Then he heard a terrible sound: “Woof! Woof!” Two big dogs ran into the room. The mice ran for their lives.",
+        "Inside the wall, the Country Mouse was shaking. “Thank you for dinner,” he said to his cousin. “But I am going home.”",
+        "“Why?” asked the Town Mouse. “You can eat like a king here!”",
+        "“Yes,” said the Country Mouse. “But I would rather eat beans in peace than cake in fear.”",
+        "And he went back to his quiet little hole under the old tree, and he was happy there."
+      ]
+    }
+  ]
+}

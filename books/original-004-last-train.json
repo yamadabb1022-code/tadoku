@@ -1,0 +1,30 @@
+{
+  "id": "original-004-last-train",
+  "title": "The Last Train",
+  "author": "Tadoku Note (original)",
+  "level": 1,
+  "genres": ["mystery"],
+  "summary": "金曜の終電で出会った緑のコートの老婦人。翌週から、彼女は姿を見せません。少し不思議な話。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Tom worked late every Friday. He liked the office at night. It was quiet, and he could think.",
+        "One Friday, he looked at the clock. It was 11:52. “Oh no!” he said. The last train left at 12:05. He took his bag and ran.",
+        "He ran down the stairs and out into the street. The night was cold. He ran past the closed shops and the dark café. He got to the station at 12:04.",
+        "The last train was there. The doors were open. Tom jumped in, and the doors closed behind him.",
+        "He sat down and breathed hard. Then he looked around. The train was almost empty. There was only one other person in his car: an old woman in a green coat. She had a small brown suitcase on her knees.",
+        "The train started to move. The woman looked at Tom. “You were lucky,” she said. “Yes,” Tom said, smiling. “I almost missed it.”",
+        "“I always take this train,” the woman said. “Every Friday, for many years.” “Where do you go?” Tom asked. “To see my sister,” she said. “She lives at the end of the line.”",
+        "They talked for a while. She told him about her sister’s garden and her sister’s old dog. Tom told her about his job. He was tired, but he enjoyed talking to her.",
+        "At his station, Tom stood up. “Good night,” he said. “Say hello to your sister.” The woman smiled. “I will,” she said.",
+        "The next Friday, Tom caught the last train again. He looked for the woman in the green coat. She was not there. The next Friday, she was not there either.",
+        "Tom asked the station worker about her. “An old woman in a green coat? With a brown suitcase?” The worker was quiet for a moment. Then he said, “That was Mrs. Hall. She took the last train every Friday for twenty years. But she died last spring.”",
+        "Tom did not know what to say. “Last spring? But I saw her. I talked to her two weeks ago.”",
+        "The worker looked at him and smiled a little. “You are not the first person to say that,” he said.",
+        "Tom still takes the last train on Fridays. He always sits in the same car. Sometimes, when the train is very quiet, he thinks he can smell flowers from a garden at the end of the line."
+      ]
+    }
+  ]
+}
