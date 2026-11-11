@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>多読ノート</title>
+  <meta name="description" content="易しい英文をたくさん、楽しく読むための個人用多読サイト">
+  <meta name="theme-color" content="#f7f6f2">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // 読み込み直後のちらつきを防ぐため、テーマだけ先に適用
+    try {
+      var s = (JSON.parse(localStorage.getItem('tadoku:v1') || '{}').settings) || {};
+      var t = s.theme || 'auto';
+      if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    } catch (e) { document.documentElement.dataset.theme = 'light'; }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#view">本文へスキップ</a>
+  <header class="site-header">
+    <a class="brand" href="#/">多読ノート</a>
+    <nav class="main-nav" id="mainNav" aria-label="メイン"></nav>
+  </header>
+  <div class="file-warning" id="fileWarning" role="alert" hidden>
+    このページはファイルを直接開いています。教材の読み込みとオフライン機能を使うには、ローカルサーバー経由で開いてください（README.md 参照）。
+  </div>
+  <main id="view" tabindex="-1"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="sr-live" class="visually-hidden" aria-live="polite"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
