@@ -1,5 +1,5 @@
 // オフライン対応：ネットワーク優先（3秒でタイムアウト）→ キャッシュにフォールバック
-const VERSION = 'tadoku-v1';
+const VERSION = 'tadoku-v2';
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/style.css',
   'js/app.js', 'js/store.js', 'js/db.js', 'js/books.js', 'js/levels.js', 'js/stats.js',

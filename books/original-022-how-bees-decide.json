@@ -1,0 +1,29 @@
+{
+  "id": "original-022-how-bees-decide",
+  "title": "How Honeybees Choose a Home",
+  "author": "Tadoku Note (original)",
+  "level": 4,
+  "genres": ["nonfiction", "science"],
+  "summary": "数万匹のミツバチは、リーダーなしでどうやって新しい巣の場所を決めるのか。「ハチの民主主義」とよばれる意思決定のしくみを紹介します。",
+  "source": { "type": "original", "note": "Original text written for this app, based on widely published research on honeybee swarms. General information only." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Imagine that ten thousand people must choose a new home together, quickly, with no leader, no maps and no phones. If they choose badly, most of them will die. It sounds impossible. Yet honeybees solve this problem every spring, and they usually make the right choice.",
+        "A honeybee colony grows during spring. When the hive becomes too crowded, the colony divides. The old queen leaves with about two thirds of the workers, often more than ten thousand bees. They fly a short distance and form a huge, hanging cluster, perhaps on a tree branch. This is called a swarm. If you have ever seen one, it looks frightening, but swarming bees are usually quite calm. They have no home to defend.",
+        "The swarm can only stay on the branch for a few days. It has no protection from rain or cold, and the bees are living on the honey they carried in their stomachs. They must find a new home, and the choice matters enormously. A good home, usually a hollow in a tree, must be large enough to store honey for winter, have a small entrance that is easy to defend, be dry, and be high enough above the ground. A bad choice can mean the whole colony starves or freezes in its first winter.",
+        "Contrary to what many people think, the queen does not decide. In fact, she plays almost no role in the decision. The choice is made by a few hundred of the oldest, most experienced workers, called scouts.",
+        "The scouts fly out in all directions to search for possible sites. When a scout finds a promising hollow, she inspects it carefully, walking around inside it for up to forty minutes. Then she flies back to the swarm and reports what she has found. She does this through the famous “waggle dance.” On the surface of the swarm, she runs in a straight line while shaking her body, then circles back and repeats. The angle of the straight run shows the direction of the site compared to the sun. The length of the waggle shows the distance.",
+        "But the dance also contains a third piece of information: quality. A scout that has found an excellent site dances with great enthusiasm, repeating her dance many times. A scout that has found an average site dances fewer times. In this way, better sites get more advertising.",
+        "Other scouts watch the dances, fly out to check the advertised sites for themselves, and if they like what they see, they come back and dance for those sites too. Gradually, more and more scouts support the best sites, while support for weaker sites fades. Importantly, each scout’s enthusiasm naturally decreases over time. Every time she returns, she dances a little less. This prevents one early, excited bee from controlling the whole decision. A site only wins if new bees keep visiting it and keep agreeing that it is good.",
+        "So how does the swarm know when the debate is over? This is perhaps the cleverest part. The bees do not wait until every scout agrees. Instead, scouts at each site count how many other scouts are there. When the number of bees at one site reaches a certain level, about twenty or thirty at the same time, the scouts there sense that a “quorum” has been reached. They fly back to the swarm and begin making a special high-pitched piping sound. This signal tells all the bees to warm up their flight muscles. Within an hour, the whole swarm takes off together and flies to its new home.",
+        "There is even a way to stop arguments. Sometimes scouts supporting one site will bump into scouts dancing for a different site and make a short beeping sound. This “stop signal” makes the other dancer stop dancing. In this way, the bees can break a deadlock between two equally popular sites.",
+        "Much of what we know about this process comes from the American biologist Thomas Seeley, who spent decades studying swarms. In one famous experiment, he took swarms to an island with almost no natural tree hollows and offered them five wooden nest boxes. Four were average. One was excellent. In most trials, the swarms chose the excellent one.",
+        "Seeley noticed that bee decision-making has some lessons for humans. First, the group has many independent searchers, so it considers many options. Second, the bees share information openly, and each individual checks the facts for herself instead of simply copying others. Third, the strength of support depends on quality, not on who shouts loudest or longest. Finally, the group does not need perfect agreement; it acts when there is enough agreement.",
+        "Seeley even used these ideas when he led meetings at his university. He asked the leader to stay quiet at first, encouraged people to suggest many options, and allowed open debate before any vote.",
+        "Of course, humans are not bees. We have opinions, emotions and politics. But it is remarkable that an insect with a brain smaller than a grain of rice, working together with thousands of others, can make a decision so wisely. Each bee knows very little. Together, they know enough."
+      ]
+    }
+  ]
+}

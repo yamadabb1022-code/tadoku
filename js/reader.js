@@ -85,7 +85,9 @@ export async function renderReader(root, params) {
   const settings = store.state.settings;
   const { html, total } = buildText(book);
   let reading = activeReadingFor(book.id);
-  const src = book.source || {};
+  const src = { ...(book.source || {}) };
+  // 取り込んだJSONに javascript: などのURLが入っていてもリンクにしない（http/https のみ許可）
+  if (src.url && !/^https?:\/\//i.test(src.url)) delete src.url;
 
   root.innerHTML = `
   <div class="reader">

@@ -1,0 +1,73 @@
+{
+  "id": "doyle-blue-carbuncle",
+  "title": "The Adventure of the Blue Carbuncle",
+  "author": "Arthur Conan Doyle (retold)",
+  "level": 4,
+  "genres": ["mystery", "classic"],
+  "summary": "クリスマスの翌朝、ホームズのもとに古い帽子と一羽のガチョウが持ち込まれます。ガチョウの中から出てきたのは、盗まれた伯爵夫人の宝石でした。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold and shortened from Arthur Conan Doyle’s “The Adventure of the Blue Carbuncle” (1892, public domain).",
+    "url": "https://www.gutenberg.org/ebooks/1661"
+  },
+  "chapters": [
+    {
+      "title": "1. A Hat and a Goose",
+      "paragraphs": [
+        "On the second morning after Christmas, I called on my friend Sherlock Holmes to wish him the compliments of the season. He was lying on the sofa in a purple dressing gown, and on a chair beside him hung a very old, very shabby felt hat. A magnifying glass lay next to it.",
+        "“You are busy,” I said. “Perhaps I am interrupting you.”",
+        "“Not at all, Watson. I am glad to have a friend with whom I can discuss my results. This hat is not important in itself, but it has a small problem attached to it.”",
+        "He explained that the hat had been brought to him by Peterson, the commissionaire, who carried messages and packages around the neighborhood. At four o’clock on Christmas morning, Peterson had been walking home when he saw a tall man in front of him, carrying a white goose over his shoulder. At the corner, a group of young men attacked the stranger and knocked off his hat. The man raised his stick to defend himself and accidentally broke a shop window behind him. When Peterson ran forward to help, the man saw a uniform, dropped the goose in fright, and ran away into the dark streets. The young men ran away too.",
+        "Peterson was left with the hat and the goose. On the goose’s leg was a small card that said, “For Mrs. Henry Baker.” The initials “H. B.” were also inside the hat. But there were hundreds of Bakers in London. So Peterson brought both things to Holmes. That morning, since the goose could not be kept much longer, Holmes had given it to Peterson to eat, and kept the hat.",
+        "“Now, Watson,” said Holmes, handing me the hat, “what can you tell me about its owner?”",
+        "I turned it over in my hands. It was an ordinary black hat, very old and cracked, with a few spots of dirt. “I can see nothing,” I said.",
+        "“On the contrary, Watson, you can see everything. You fail, however, to reason from what you see.” Holmes took it back. “This man was highly intellectual, as we can tell from the size of the hat. A head this big must contain something. He was fairly well off three years ago, because this was an expensive hat when it was new, but he has fallen on hard times since then. He has not bought a new hat, and he has tried to hide the spots with ink. He is middle-aged, his hair is gray, he has recently had it cut, and he uses lime cream on it. These facts are clear from the short gray hairs inside the lining, and the smell. Also, his wife has stopped loving him.”",
+        "“My dear Holmes!”",
+        "“This hat has not been brushed for weeks. When I see you, Watson, with a week’s dust on your hat, and your wife allows you to go out like that, I shall fear that you have lost her affection.”",
+        "Before I could argue, the door flew open and Peterson rushed into the room, his face red with excitement.",
+        "“The goose, Mr. Holmes! The goose, sir!” he cried. “See what my wife found in its crop!” He held out his hand. In the middle of his palm was a brilliant blue stone, smaller than a bean, but so pure and bright that it shone like an electric light."
+      ]
+    },
+    {
+      "title": "2. The Countess’s Jewel",
+      "paragraphs": [
+        "Holmes sat up and whistled. “By Jove, Peterson! Do you know what you have there? It is the Countess of Morcar’s blue carbuncle.”",
+        "I had read about it in the newspapers. Five days earlier, the famous jewel had been stolen from the Countess’s room at the Hotel Cosmopolitan. The reward for finding it was one thousand pounds, although its real value was twenty times that.",
+        "A plumber named John Horner had been arrested for the crime. He had been sent to the Countess’s room to repair something, and a hotel attendant named James Ryder had taken him there. Ryder said that he had left Horner alone in the room for a few minutes. Later, the jewel box was found empty on the dressing table. Horner, who had been in prison once before, said he was innocent, but nobody believed him.",
+        "“So,” said Holmes, “the stone came from the goose, and the goose came from Mr. Henry Baker, the gentleman with the bad hat. Now we must find Mr. Baker and discover what part he played in this little mystery.” He wrote an advertisement for the evening papers: “Found at the corner of Goodge Street, a goose and a black felt hat. Mr. Henry Baker can have the same by applying at 6:30 this evening at 221B Baker Street.” Then he sent Peterson to buy another goose, to give Mr. Baker in place of the one that his family was now eating.",
+        "At half past six, a large man in a coat buttoned up to his chin arrived. He had a broad, intelligent face and a short gray beard. Holmes and I exchanged a look: he matched the description perfectly.",
+        "Mr. Baker was delighted to see his hat again. When Holmes explained that the goose had been eaten, he did not seem to mind at all, and he happily accepted the new one. When Holmes asked if he wanted the feathers and the crop of the old goose, he laughed. “No, sir. I have no use for them.”",
+        "It was clear that Henry Baker knew nothing about the jewel. Holmes asked, casually, where he had bought the goose. Baker explained that he belonged to a “goose club” at the Alpha Inn, near the British Museum. Every week, the members paid a few pennies, and at Christmas each of them received a goose. Then he took his new bird and left, with great dignity."
+      ]
+    },
+    {
+      "title": "3. Following the Goose",
+      "paragraphs": [
+        "“So much for Mr. Henry Baker,” said Holmes. “Are you hungry, Watson? No? Then let us follow this clue while it is still hot.”",
+        "It was a bitterly cold night. We walked quickly to the Alpha Inn, where Holmes ordered two glasses of beer from the landlord, Mr. Windigate. In a friendly way, Holmes praised the geese from the club. The landlord explained that the geese were not his own. He had bought two dozen from a salesman named Breckinridge, in Covent Garden market.",
+        "We hurried on to Covent Garden. Mr. Breckinridge, a man with a sharp face, was closing his shop. When Holmes asked where he had got the geese he sold to the Alpha, he became very angry. “I’ve had enough of people asking about those geese!” he shouted. “It’s none of your business!”",
+        "Holmes did not argue. Instead, he pretended to make a bet. “I bet you five pounds that the goose I ate was raised in the country,” he said.",
+        "Breckinridge could not resist the chance to win. He brought out his account books, and with great satisfaction he showed us the entry: the geese had come from a Mrs. Oakshott, 117 Brixton Road, and had been sold to Mr. Windigate of the Alpha. “Town-raised!” he laughed. Holmes paid him, with a disappointed face.",
+        "As we walked away, Holmes laughed quietly. “When you see a man like that, Watson, you can always get information by offering a bet.”",
+        "Just then we heard shouting behind us. A small man with a rat-like face was standing in the light of Breckinridge’s shop, and Breckinridge was waving his fists at him. “I’ve had enough of you and your geese! Bring Mrs. Oakshott here and I’ll answer her, but what business is it of yours?” The little man ran away into the dark.",
+        "Holmes caught up with him and touched his shoulder. The man jumped and turned around, his face white with fear.",
+        "“You are trying to find some geese which were sold by Mrs. Oakshott of Brixton Road,” said Holmes. “I think I can help you. Perhaps we should talk somewhere warmer than this windy market.”"
+      ]
+    },
+    {
+      "title": "4. A Season of Forgiveness",
+      "paragraphs": [
+        "Back in Baker Street, by the fire, Holmes said gently, “What is your real name?” The little man hesitated, then answered, “James Ryder.”",
+        "“Exactly. The head attendant at the Hotel Cosmopolitan. Is this what you are looking for?” Holmes opened a small box. The blue carbuncle shone like a star. Ryder gave a cry and nearly fell to the floor.",
+        "“The game is up, Ryder,” said Holmes. “I know almost everything already. Tell us the rest.”",
+        "The story came out quickly. Ryder and the Countess’s maid, Catherine Cusack, had planned the theft together. Ryder knew that Horner had been in prison before, so he arranged for Horner to do a small repair in the Countess’s room. When Horner left, Ryder took the jewel and called the police. Horner was arrested immediately.",
+        "But Ryder was afraid that the police would search him too. So he went to his sister, Mrs. Oakshott, who lived in Brixton Road and raised geese for the market. She had promised him a goose for Christmas. Behind her house, Ryder caught a large white goose with a black bar across its tail, forced open its beak and pushed the stone down its throat. Then he told his sister he wanted that goose. But in the confusion, the bird escaped and ran back into the crowd. When he took his goose home and cut it open, there was no stone. He ran back to his sister in horror, and found that there had been two geese with barred tails. The other one had already been sold to Breckinridge, together with the rest.",
+        "Ryder fell to his knees and began to cry. “For God’s sake, have mercy! Think of my father, my mother! It would break their hearts. I never did wrong before! I will never do it again!”",
+        "Holmes was silent for a long time. Then he stood up and opened the door. “Get out!” he said.",
+        "There was a rush on the stairs, the bang of the front door, and the sound of running feet in the street.",
+        "“After all, Watson,” said Holmes, reaching for his pipe, “I am not paid by the police to fix their mistakes. If Horner were in danger, it would be different. But this fellow will not appear against him, and the case against Horner will collapse. I suppose I am letting a criminal go, but perhaps I am also saving a soul. This fellow will not go wrong again. He is too terribly frightened. Send him to prison now, and you make him a criminal for life. Besides, it is the season of forgiveness.”",
+        "He smiled. “Now, Doctor, if you will kindly ring the bell, we will begin another investigation, in which, also, a bird will be the chief feature: our dinner.”"
+      ]
+    }
+  ]
+}

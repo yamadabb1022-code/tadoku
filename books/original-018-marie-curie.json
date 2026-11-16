@@ -1,0 +1,30 @@
+{
+  "id": "original-018-marie-curie",
+  "title": "Marie Curie: A Life of Light",
+  "author": "Tadoku Note (original)",
+  "level": 3,
+  "genres": ["biography", "science", "history"],
+  "summary": "女性が大学に入れなかったポーランドから、パリへ。放射能の研究で二度ノーベル賞を受けたマリー・キュリーの生涯をたどります。",
+  "source": { "type": "original", "note": "Original text written for this app, based on well-known facts about Marie Curie’s life." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Marie Curie was born in Warsaw, Poland, in 1867. Her name then was Maria Skłodowska. She was the youngest of five children. Both of her parents were teachers, and their home was full of books and scientific instruments. Maria was a brilliant student with an amazing memory. But life was not easy. Poland was under Russian control at that time, and Polish culture and language were not allowed in many schools. When Maria was ten, her mother died of tuberculosis.",
+        "Maria finished high school at fifteen with the highest grades in her class. She wanted to go to university, but in Poland, universities did not accept women. So she made an agreement with her older sister, Bronisława. Maria would work as a governess, teaching the children of a rich family, and send money to Paris so her sister could study medicine. Later, Bronisława would help Maria. For several years, Maria taught during the day and studied alone at night.",
+        "In 1891, at the age of twenty-four, she finally traveled to Paris and entered the Sorbonne, one of the best universities in Europe. She changed her name to the French form, Marie. She was very poor. She lived in a small room at the top of a building, and in winter it was so cold that she sometimes wore all her clothes in bed. Sometimes she forgot to eat. But she studied hard, and she finished first in her class in physics.",
+        "In 1894, she met a French scientist named Pierre Curie. He was quiet, serious and as passionate about science as she was. They married in 1895. For their honeymoon, they rode around France on bicycles.",
+        "At that time, scientists were excited about a new discovery. A French physicist, Henri Becquerel, had found that the metal uranium gave off mysterious rays. Marie decided to study these rays for her doctorate. She discovered that the strength of the rays depended only on the amount of uranium, and she realized that the rays came from inside the atoms themselves. She invented a new word to describe this: “radioactivity.”",
+        "Marie noticed that a mineral called pitchblende was even more radioactive than pure uranium. That meant there must be something else in it, an unknown element. Pierre stopped his own research to help her. In 1898, they announced the discovery of two new elements. Marie named the first one “polonium,” after her homeland, Poland. The second was “radium,” from the Latin word for “ray.” Radium glowed with a soft blue light in the dark.",
+        "But other scientists wanted proof. So Marie and Pierre worked for four years in an old wooden shed with a leaking roof. It was hot in summer and freezing in winter. Marie boiled and stirred tons of pitchblende in huge pots, using an iron rod almost as tall as herself. In 1902, she finally had one tenth of a gram of pure radium.",
+        "In 1903, Marie and Pierre Curie and Henri Becquerel won the Nobel Prize in Physics. Marie was the first woman ever to win a Nobel Prize. The Curies became famous, but they did not like fame. They wanted only to continue their work. They also chose not to patent their method of producing radium, so that scientists everywhere could use it freely.",
+        "Then, in 1906, a terrible thing happened. Pierre was crossing a busy street in Paris in the rain when he was hit by a horse-drawn wagon. He died instantly. Marie was heartbroken. She now had two young daughters, Irène and Ève, to take care of alone. But she continued her work. The Sorbonne gave her Pierre’s position as professor. She became the first woman to teach there.",
+        "In 1911, Marie won a second Nobel Prize, this time in Chemistry, for her work on radium and polonium. She was the first person to win Nobel Prizes in two different sciences. Even today, she is the only person who has done this.",
+        "When the First World War began in 1914, Marie wanted to help. She knew that X-rays could help doctors find bullets and broken bones inside wounded soldiers. So she designed small X-ray vehicles that could drive to the battlefields. People called them “little Curies.” She learned to drive, and she went to the front herself, with her seventeen-year-old daughter Irène. Their X-ray units helped about a million soldiers.",
+        "Nobody knew at that time how dangerous radioactivity was. Marie often carried small tubes of radium in her pockets and kept them in her desk drawer because she liked their beautiful glow. Over the years, the radiation damaged her health. She died in 1934, at the age of sixty-six. Even now, her notebooks are still radioactive. People who want to read them must sign a form and wear protective clothing.",
+        "One year after her death, her daughter Irène and Irène’s husband, Frédéric Joliot-Curie, also won the Nobel Prize in Chemistry. Today, Marie Curie’s discoveries help us in many ways, from medical treatments for cancer to our understanding of the atom.",
+        "Marie Curie once said, “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”"
+      ]
+    }
+  ]
+}

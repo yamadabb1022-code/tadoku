@@ -1,0 +1,36 @@
+{
+  "id": "original-021-the-last-bookshop",
+  "title": "The Last Bookshop on Elm Street",
+  "author": "Tadoku Note (original)",
+  "level": 4,
+  "genres": ["drama"],
+  "summary": "閉店が決まった町の古本屋。最後の一か月、店主のウォルターのもとに、かつての客たちが一冊ずつ「借り」を返しにやって来ます。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "The sign in the window was small and handwritten, and it took Walter Finch three days to put it there. “After 41 years, Finch’s Books will close on 31 March. Thank you for everything.”",
+        "Walter was seventy-four. The shop had belonged to his father before him, and for most of his life it had been the center of his world: two narrow floors of secondhand books on Elm Street, with a creaking staircase, a sleepy gray cat called Dickens, and a smell of old paper and coffee that no customer ever forgot. But the rent had doubled, the street was full of phone shops and fast-food restaurants, and most people bought their books online now. Walter was tired of doing the math.",
+        "On the first day after he put up the sign, nothing happened. On the second day, a woman in a business suit came in, looked around quickly and left without speaking. On the third day, a young man came in holding a paperback with a cracked cover. He put it on the counter.",
+        "“I took this from your shop when I was fifteen,” he said. His face was red. “I didn’t pay for it. I had no money, and I wanted to read it so badly. It was the book that made me want to become a teacher. I teach English now, at the high school on Park Road.” He put a twenty-pound note on top of the book. “I’m sorry it took me twelve years.”",
+        "Walter looked at the book. It was an old copy of To Kill a Mockingbird. He remembered, vaguely, a thin boy who used to sit on the floor in the corner for hours. He pushed the money back across the counter. “Keep the book,” he said. “And buy your students something to read.”",
+        "That evening, the young teacher posted a photo of the shop online, with the story. Walter did not know this. He did not use the internet. But the next day, the shop was busier than it had been for years.",
+        "People came with stories. An elderly man told Walter that he had proposed to his wife in the poetry section in 1979. “She said yes in front of Keats,” he said. “We’ve been married forty-five years. She sends her love, but her knees can’t manage your stairs.” A nurse explained that she had studied for her exams at Walter’s little table by the window every evening for a year, because her apartment was too noisy, and Walter had never once asked her to buy anything. A young mother brought her daughter, who chose a picture book about a bear. “This was my favorite book when I was her age,” the mother said. “I bought it here. I want her to buy her first book here too, before it’s gone.”",
+        "Some people simply bought books, more books than they could possibly read. Others just walked around slowly, touching the shelves, as if they were saying goodbye to an old friend.",
+        "Walter found it exhausting. He was not used to so many people, and he was not used to so many feelings. In the evenings, after he closed the shop, he sat in the back room with Dickens on his lap and stared at the wall. He had always thought of the shop as a business, and a failing one. He had never thought of it as part of other people’s lives.",
+        "In the third week, the woman in the business suit came back. This time she stayed. She introduced herself as Helen Okoro. She worked for the town council, and she had grown up two streets away.",
+        "“When I was nine,” she said, “my parents were going through a terrible divorce. Home was not a good place to be. So I came here after school every day, and I read. You let me sit on those stairs for hours. One day you gave me a book about a girl who becomes a judge. You said, ‘I think you might like this one.’ I don’t think you remember.”",
+        "Walter did not remember. He felt ashamed of that.",
+        "“I became a lawyer,” said Helen. “Now I work on town planning. And I want to make you an offer.” She explained that the council owned an empty building at the end of Elm Street. It used to be a bank. The council wanted to make it into a community center, with a café, rooms for classes and a space for local businesses. The rent would be low. Very low.",
+        "“I’m seventy-four,” said Walter. “I don’t have the energy to start again.”",
+        "“You wouldn’t be starting alone,” said Helen. She took out her phone and showed him a page on a website. At the top was the young teacher’s photo of the shop. Below it was a list of names: more than three hundred people who had offered to help. Some offered to move books. Some offered to work in the shop on weekends. Some offered money. The teacher had offered to bring his students every Friday for a reading club.",
+        "Walter looked at the list for a long time. Then he took off his glasses and rubbed his eyes.",
+        "On 31 March, Finch’s Books closed, as the sign said. But on 1 April, a long line of people formed on Elm Street. They passed boxes of books from hand to hand, from the old shop to the old bank, like a human river. It took the whole day. A boy carried Dickens in a basket at the front of the line, like a king.",
+        "The new shop opened two months later. It is bigger and brighter than the old one. It has a café, a children’s corner and a table by the window, where students study in the evenings. Walter works there three days a week. The rest of the time, volunteers run it.",
+        "There is one new rule, painted in small letters on the wall by the door: “If you cannot pay for a book today, take it anyway. Pay us back when you can, in whatever way you can.”",
+        "Walter says that, so far, everyone has."
+      ]
+    }
+  ]
+}

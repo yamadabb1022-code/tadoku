@@ -1,0 +1,58 @@
+{
+  "id": "original-024-the-longitude-problem",
+  "title": "The Longitude Problem",
+  "author": "Tadoku Note (original)",
+  "level": 5,
+  "genres": ["nonfiction", "history", "science"],
+  "summary": "18世紀、海の上で自分の「経度」を知る方法はなく、多くの船が遭難しました。賞金をかけたこの難問に、独学の時計職人ジョン・ハリソンが挑みます。",
+  "source": { "type": "original", "note": "Original text written for this app, based on well-documented history. General information only." },
+  "chapters": [
+    {
+      "title": "1. Lost at Sea",
+      "paragraphs": [
+        "On the foggy night of 22 October 1707, a British fleet was sailing home after a campaign in the Mediterranean. Its commander, Admiral Sir Cloudesley Shovell, believed his ships were safely west of the coast of France, heading into the English Channel. He was wrong. In the darkness, four of his warships struck the rocks of the Isles of Scilly, off the southwestern tip of England. Within minutes, they had sunk. Somewhere between 1,400 and 2,000 sailors drowned, including the admiral himself. It was one of the worst disasters in British naval history.",
+        "The fleet had not been unlucky in the usual sense. The real cause of the disaster was a scientific problem that had defeated the finest minds in Europe for centuries: nobody at sea could reliably tell how far east or west they were. In other words, nobody could measure their longitude.",
+        "To understand why, it helps to imagine the lines on a globe. Lines of latitude run horizontally, parallel to the equator. Finding your latitude at sea was relatively easy, even in the ancient world. You simply measured the height of the sun at noon, or of the Pole Star at night, above the horizon. The higher the Pole Star, the further north you were. Nature provided a fixed reference point.",
+        "Longitude was different. The vertical lines that run from pole to pole have no natural starting point; the choice of a “zero” line is purely a human decision. More importantly, because the Earth is constantly turning, the sky above you looks almost the same at a given latitude no matter how far east or west you travel. The stars could not simply tell you your longitude.",
+        "As a result, sailors relied on a method called “dead reckoning.” They estimated their speed, kept track of their direction and the time that had passed, and calculated their position from these. On a calm sea, for a short journey, this could work reasonably well. But currents, winds and simple mistakes added up day after day. After several weeks at sea, a ship’s navigator might be wrong by hundreds of kilometers. Ships missed islands where they planned to take on fresh water, and sailors died of scurvy while searching for land. Others, like Shovell’s fleet, ran onto rocks they thought were far away."
+      ]
+    },
+    {
+      "title": "2. A Prize for an Impossible Problem",
+      "paragraphs": [
+        "In principle, the solution to the longitude problem was well understood. The Earth turns 360 degrees in twenty-four hours, which means fifteen degrees every hour. So if you know the local time where you are, and at the same moment you know the time at some reference place, such as your home port, the difference between the two tells you your longitude. If it is noon on your ship, as shown by the sun being at its highest point, and you know that at that moment it is three o’clock in the afternoon in London, you must be three hours, or forty-five degrees, west of London.",
+        "Finding local time was easy. The problem was knowing the time back home. That required either a clock that could keep perfect time on a moving ship for months, or a signal in the sky that everyone could see and use as a universal clock.",
+        "Most scientists of the day, including Isaac Newton, believed the answer lay in the sky. The Moon, in particular, moves across the background of the stars at a predictable rate. In theory, a navigator could measure the distance between the Moon and certain stars, look up the result in printed tables, and find out what time it was in London. The trouble was that the Moon’s motion is extraordinarily complex, and in the early eighteenth century, the tables were not nearly accurate enough. Besides, the measurements and calculations were difficult and time-consuming, and impossible on cloudy nights.",
+        "A clock seemed even less hopeful. The best clocks of the time relied on pendulums, which were useless on a rolling ship. Changes in temperature made metal parts expand and contract, and changes in humidity thickened oil and affected the mechanism. Newton himself said that a sufficiently accurate watch was unlikely ever to be made.",
+        "In 1714, after pressure from merchants and naval officers, the British Parliament passed the Longitude Act. It offered a prize of £20,000, equal to millions of pounds today, to anyone who could find a method to determine longitude at sea to within half a degree. A committee of scientists, admirals and politicians, known as the Board of Longitude, was created to judge the results. For years, the prize attracted mostly strange and useless proposals. Phrases like “discovering the longitude” became a popular joke, meaning “attempting something impossible.”"
+      ]
+    },
+    {
+      "title": "3. The Carpenter Who Built Clocks",
+      "paragraphs": [
+        "John Harrison was born in 1693 in Yorkshire, in the north of England, the son of a carpenter. He had little formal education, and he followed his father into the woodworking trade. Yet he was fascinated by machines, and as a young man he taught himself to build clocks, at first almost entirely out of wood. They were astonishingly accurate. Harrison invented ingenious solutions to the problems that troubled other clockmakers. Instead of oil, which became thick and sticky over time, he used a tropical hardwood, lignum vitae, that produced its own natural grease. To deal with temperature, he invented the “gridiron” pendulum, which combined rods of brass and steel so that the expansion of one metal canceled out the expansion of the other.",
+        "Harrison heard about the longitude prize and decided that a clock could win it. In 1730, he traveled to London to present his ideas. With the support of a respected clockmaker, George Graham, he spent five years building his first sea clock, now known as H1. It was a large, strange-looking machine of brass, about the size of a small cabinet, with balancing arms connected by springs in place of a pendulum, so that the motion of the ship would not disturb it. In 1736, it was tested on a voyage to Lisbon and performed well enough to impress the Board.",
+        "But Harrison was a perfectionist. Rather than ask for the prize, he asked for money to build a better machine. H2 followed, and then H3, which took him nineteen years and was never quite good enough to satisfy him. Then, in the late 1750s, he took an entirely different approach. Instead of a large clock, he built a large pocket watch, about thirteen centimeters across. Many experts thought that a small machine could never be accurate. Harrison proved them wrong. The watch, now called H4, was a masterpiece of precision and beauty."
+      ]
+    },
+    {
+      "title": "4. Proof and Prejudice",
+      "paragraphs": [
+        "In 1761, H4 was sent on a voyage to Jamaica, with Harrison’s son William looking after it. When the ship arrived after eighty-one days at sea, the watch was only about five seconds slow. This meant an error in longitude of only about one and a quarter minutes of arc, far better than the half degree that the Longitude Act required. A second trial, to Barbados in 1764, produced similar results.",
+        "By any fair reading of the Act, Harrison should have received the prize. He did not. The Board of Longitude, which included several astronomers who strongly favored the lunar method, raised one objection after another. Perhaps the results were luck, they suggested. They demanded that Harrison explain every detail of his design, hand over all his watches, and prove that other craftsmen could make copies. One of Harrison’s fiercest opponents was the astronomer Nevil Maskelyne, who had worked on the lunar tables and who became Astronomer Royal in 1765. To be fair to the Board, there were genuine questions: a single brilliant watch was not the same as a practical method that every ship could use. But Harrison, now in his seventies, felt bitterly that the rules were being changed to deny him what he had earned.",
+        "Meanwhile, the lunar method was also improving. Maskelyne published the first “Nautical Almanac” in 1767, with tables that made the calculations much quicker. For several decades afterward, navigators used both methods, checking one against the other.",
+        "The final proof of Harrison’s achievement came from an unexpected source. On his second great voyage of exploration, between 1772 and 1775, Captain James Cook took with him a copy of H4 made by another craftsman, Larcum Kendall. In the icy waters of the Antarctic and the vast emptiness of the Pacific, the watch performed beautifully. Cook called it “our trusty friend the watch” and “our never-failing guide.”",
+        "In the end, Harrison and his son appealed directly to King George III, who was interested in science and tested one of Harrison’s watches himself. “By God, Harrison, I will see you righted!” the king is reported to have said. In 1773, Parliament awarded Harrison a large sum of money, though it was never officially called the longitude prize. He died three years later, on his eighty-third birthday."
+      ]
+    },
+    {
+      "title": "5. The Legacy",
+      "paragraphs": [
+        "Over the following century, marine chronometers, as such watches came to be called, became cheaper and more reliable, and by the nineteenth century they were standard equipment on ships around the world. They made long ocean voyages far safer and helped make possible the expansion of global trade, as well as, it must be said, the expansion of European empires.",
+        "The need for a common reference time also led, eventually, to a global agreement. In 1884, at a conference in Washington, most nations agreed to use the line passing through the Royal Observatory at Greenwich, in London, as the “prime meridian,” or zero degrees of longitude. This is why we still speak of “Greenwich Mean Time,” and why the world’s time zones are measured from that line.",
+        "Today, a GPS receiver in a phone can calculate its longitude within a few meters in seconds. It works, interestingly, on the same principle as Harrison’s watch: it compares extremely precise time signals sent from satellites, each carrying its own atomic clock. Knowing exactly where you are still depends on knowing exactly what time it is.",
+        "Harrison’s four great timekeepers survived. They can be seen today at the Royal Observatory in Greenwich, standing on the very line that divides east from west. Three of them are still running."
+      ]
+    }
+  ]
+}

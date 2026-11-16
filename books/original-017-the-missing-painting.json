@@ -1,0 +1,67 @@
+{
+  "id": "original-017-the-missing-painting",
+  "title": "The Missing Painting",
+  "author": "Tadoku Note (original)",
+  "level": 3,
+  "genres": ["mystery"],
+  "summary": "小さな町の美術館から、夜のうちに一枚の絵が消えました。鍵は閉まったまま、防犯カメラにも誰も映っていません。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "1. Monday Morning",
+      "paragraphs": [
+        "The Hartley Museum was the smallest museum in the town of Ashford. It had only four rooms, two members of staff and about thirty paintings. Most visitors came for one picture: “Girl with a Yellow Bird,” painted in 1890 by a local artist named Clara Wren. It was not very famous outside Ashford, but the people of the town loved it.",
+        "On Monday morning, Mrs. Patel, the museum manager, unlocked the front door at nine o’clock, as usual. She turned on the lights and walked into the main room. Then she stopped. On the wall, where “Girl with a Yellow Bird” always hung, there was only an empty space and a small metal hook.",
+        "Inspector Rose Kemp arrived thirty minutes later. She was a short woman with gray hair and a quiet voice, and she noticed everything.",
+        "“When did you last see the painting?” she asked.",
+        "“On Saturday evening,” said Mrs. Patel. “The museum is closed on Sundays. I locked the door at five o’clock on Saturday. The painting was there. I’m sure of it.”",
+        "“Who else has a key?”",
+        "“Only Daniel. He’s our assistant. And the cleaner, Mr. Hobbs, but he gave his key back last month. He moved to another town.”"
+      ]
+    },
+    {
+      "title": "2. Three Facts",
+      "paragraphs": [
+        "Inspector Kemp walked slowly around the museum. She checked the windows. They were all locked from the inside. She checked the back door. It was locked too. There was a security camera above the front door, and she watched the recording from Saturday at five o’clock to Monday at nine. Nobody came in. Nobody went out.",
+        "“So,” she said, “we have three facts. The doors were locked. The windows were locked. And the camera saw nobody. Either somebody stole the painting before five o’clock on Saturday, or the painting is still in this building.”",
+        "Daniel arrived at ten. He was a tall young man, about twenty-five, and he looked very worried. “I can’t believe it,” he said. “Who would steal Clara Wren? It’s not worth much money. It’s only important to Ashford.”",
+        "“Where were you on Sunday?” asked the inspector.",
+        "“At home, all day. I was sick. My sister can tell you.”",
+        "Inspector Kemp nodded. Then she asked, “On Saturday, were there any visitors in the afternoon?”",
+        "Mrs. Patel checked the visitors’ book. “Only a few. A family with two children. Two students from the art college. And an old man who came just before closing time. He signed the book: ‘T. Wren.’”",
+        "The inspector looked up. “Wren? Like the painter?”",
+        "“It’s a common name around here,” said Mrs. Patel. But she suddenly looked thoughtful."
+      ]
+    },
+    {
+      "title": "3. The Storeroom",
+      "paragraphs": [
+        "“Is there anywhere in the building that I haven’t seen?” asked Inspector Kemp.",
+        "“Only the storeroom in the basement,” said Daniel. “We keep old frames and boxes there. Nobody goes down very often.”",
+        "The storeroom was dark and dusty. There were piles of old frames, broken chairs and boxes of papers. The inspector walked to the back of the room with her flashlight. Behind a large wooden box, something was leaning against the wall, covered with a white sheet.",
+        "She pulled off the sheet. It was “Girl with a Yellow Bird.”",
+        "Mrs. Patel gave a cry of relief. “But how did it get here?”",
+        "Inspector Kemp did not answer. She was looking at the painting very carefully. Then she took a small magnifying glass from her pocket and looked at the corner, where the artist had signed her name. “Mrs. Patel,” she said, “when was this painting last cleaned?”",
+        "“Many years ago. Why?”",
+        "“Because this paint is very new. Smell it.”",
+        "Mrs. Patel leaned closer. There was a faint smell of oil paint. Her face went white. “This isn’t the real painting,” she said. “It’s a copy.”"
+      ]
+    },
+    {
+      "title": "4. The Truth",
+      "paragraphs": [
+        "Inspector Kemp turned to Daniel. “You told me you were sick on Sunday. But you have blue and yellow paint under your fingernails.”",
+        "Daniel looked at his hands. For a long moment, he said nothing. Then he sat down on an old chair.",
+        "“I didn’t steal it,” he said quietly. “I was trying to protect it.”",
+        "He explained. Two weeks earlier, he noticed that the old man, T. Wren, came to the museum every Saturday. He always stood in front of the painting for a long time. Last Saturday, Daniel heard him on his phone. “Yes, I will take it next week,” the old man said. “It belongs to my family.”",
+        "“I panicked,” said Daniel. “I studied art at college. I can copy paintings. So on Saturday night, I came back with my key. I turned off the camera for an hour. I hid the real painting and started to paint a copy. If the man tried to steal it, he would only get the copy. But I didn’t finish in time, so I hid the copy down here too.”",
+        "“And the real painting?” asked the inspector.",
+        "“In the cupboard in my office. Behind the winter coats.”",
+        "They found it there, safe. Mrs. Patel held it like a baby.",
+        "Later that day, Inspector Kemp visited Mr. Thomas Wren, the old man from the visitors’ book. He was eighty-one, and he was Clara Wren’s great-grandson. He laughed when he heard the story.",
+        "“Steal it? No, no,” he said. “I want to give the museum something. Clara’s letters and her old paintbox. They belong to my family, and next week I will take them to the museum. That is what I meant on the phone.”",
+        "Daniel lost his key, and he had to apologize to everyone. But Mrs. Patel did not fire him. Today, if you visit the Hartley Museum, you can see “Girl with a Yellow Bird,” Clara Wren’s letters and her old paintbox. And in the small room next to them, there is an unfinished copy of the painting, with a sign: “The night the painting disappeared.” It is the second most popular picture in the museum."
+      ]
+    }
+  ]
+}

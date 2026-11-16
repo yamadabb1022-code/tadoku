@@ -1,0 +1,27 @@
+{
+  "id": "original-016-the-story-of-tea",
+  "title": "The Story of Tea",
+  "author": "Tadoku Note (original)",
+  "level": 2,
+  "genres": ["nonfiction", "history"],
+  "summary": "中国で生まれたお茶は、どのようにして世界中で飲まれるようになったのか。日本、イギリス、インドとつながる紅茶・緑茶の歴史。",
+  "source": { "type": "original", "note": "Original text written for this app. General information only; some stories are legends." },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "Every day, people around the world drink about three billion cups of tea. After water, tea is the most popular drink on Earth. But where did it come from, and how did it travel around the world?",
+        "Tea comes from a plant called Camellia sinensis. Green tea, black tea and oolong tea all come from the same plant. The difference is in how people prepare the leaves after they pick them.",
+        "There is an old Chinese story about the first cup of tea. About five thousand years ago, an emperor named Shennong was sitting under a tree. He was boiling some water to drink. The wind blew a few leaves from the tree into his water. The water turned a light brown color. The emperor tasted it, and he liked it very much. Of course, this is only a legend. But we do know that people in China were drinking tea more than two thousand years ago.",
+        "At first, people in China used tea as medicine. Later, it became an everyday drink. During the Tang dynasty, a man named Lu Yu wrote a famous book about tea. It explained how to grow it, prepare it and drink it.",
+        "Tea came to Japan with Buddhist monks who studied in China. The monks drank tea to stay awake during long hours of meditation. In the twelfth century, a monk named Eisai brought tea seeds and new ideas about tea back to Japan. Later, the Japanese tea ceremony developed. In the tea ceremony, every movement is careful and beautiful. It is not only about drinking tea. It is about peace, respect and the present moment.",
+        "Tea arrived in Europe in the early 1600s. Dutch ships brought it from Asia. At first, it was very expensive, and only rich people could drink it. In England, tea became fashionable after 1662, when a Portuguese princess, Catherine of Braganza, married King Charles II. She loved tea, and soon everyone at the king’s court wanted to drink it too.",
+        "Over time, tea became cheaper, and ordinary people in Britain started drinking it every day. The British often added milk and sugar. In the 1840s, a duchess named Anna began to eat a little meal with tea in the late afternoon, because she was hungry before dinner. This became the tradition of “afternoon tea,” with small sandwiches and cakes.",
+        "For a long time, almost all tea came from China. The British wanted to grow their own. In the 1800s, they started huge tea gardens in India, in places like Assam and Darjeeling, and later in Sri Lanka. Life for the workers on these gardens was often very hard. Today, India is one of the biggest tea producers in the world, and many Indians drink sweet, spicy “chai” with milk.",
+        "Tea traveled to many other places too. In Morocco, people drink green tea with fresh mint and a lot of sugar. In Russia, people used to boil water in a big metal pot called a samovar. In Taiwan, people invented bubble tea in the 1980s, with sweet milk tea and little black balls of tapioca. Now you can find bubble tea shops in almost every big city.",
+        "In some places, tea is even in the language. In many languages, the word for tea sounds like “cha,” like in Japanese, Hindi and Russian. In others, it sounds like “te,” like in English “tea,” Spanish “té” and French “thé.” Why? The “cha” word traveled over land along the old trade roads. The “te” word traveled by sea, from a part of China where people said “te.”",
+        "So the next time you have a cup of tea, think about its long journey: from a tree in ancient China, across mountains and oceans, into your cup."
+      ]
+    }
+  ]
+}

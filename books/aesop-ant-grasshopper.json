@@ -1,0 +1,35 @@
+{
+  "id": "aesop-ant-grasshopper",
+  "title": "The Ant and the Grasshopper",
+  "author": "Aesop (retold)",
+  "level": 1,
+  "genres": ["fable", "classic"],
+  "summary": "夏のあいだ歌ってばかりのキリギリスと、冬にそなえて働くアリ。冬が来ると……。イソップ寓話を少しふくらませて。",
+  "source": {
+    "type": "adapted-pd",
+    "note": "Retold in simple English from Aesop’s fable “The Ant and the Grasshopper” (public domain)."
+  },
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        "It is summer. The sun is hot, and the fields are green. A grasshopper sits on a long piece of grass. He sings all day. “La la la! What a beautiful day!”",
+        "An ant walks past. She has a big seed on her back. The seed is heavier than the ant, but she carries it.",
+        "“Hello, Ant!” says the grasshopper. “Why are you working? It is summer! Come and sing with me.”",
+        "“I can’t,” says the ant. “I am getting food for the winter. In winter, there is no food in the fields.”",
+        "The grasshopper laughs. “Winter? Winter is a long time away. There is a lot of food now. Look!” He eats some green grass. “Delicious!”",
+        "The ant does not answer. She carries the seed to her home under the ground. Then she goes out and gets another seed. And another. And another.",
+        "Every day, the grasshopper sings and dances. Every day, the ant works. Sometimes the grasshopper calls to her. “You work too much, Ant! Life is short! Have fun!”",
+        "Then summer ends. The days are shorter. The wind is cold. The leaves on the trees turn yellow and red, and they fall to the ground. The grasshopper does not sing very much now.",
+        "Then winter comes. Snow covers the fields. There is no green grass. There are no seeds. The grasshopper is cold and very hungry. He walks slowly through the snow.",
+        "He comes to the ant’s home. He knocks on the little door. The ant opens it. Her home is warm, and it is full of food.",
+        "“Please, Ant,” says the grasshopper. “I am so hungry. Can you give me some food?”",
+        "The ant looks at him. “What did you do all summer?” she asks.",
+        "“I sang,” says the grasshopper. “I sang every day.”",
+        "“You sang all summer,” says the ant. “Then dance all winter.” And she closes the door.",
+        "The grasshopper stands in the snow. He is sad. He understands now. There is a time for fun, and there is a time for work.",
+        "(In some newer stories, the ant opens the door again, and the grasshopper sings for the ants all winter. They give him food, and he gives them music. Which ending do you like?)"
+      ]
+    }
+  ]
+}

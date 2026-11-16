@@ -1,0 +1,54 @@
+{
+  "id": "original-023-the-signal",
+  "title": "The Signal",
+  "author": "Tadoku Note (original)",
+  "level": 4,
+  "genres": ["sf", "mystery"],
+  "summary": "南米の電波天文台で、若い研究者が宇宙から届く規則正しい信号を見つけます。異星からのメッセージなのか、それとも……。",
+  "source": { "type": "original", "note": "Original text written for this app." },
+  "chapters": [
+    {
+      "title": "1. Three O’Clock in the Morning",
+      "paragraphs": [
+        "The radio observatory sat high in the Atacama Desert in Chile, five thousand meters above the sea, where the air was so thin and dry that visitors sometimes fainted on their first day. Sixty-six large white dishes stood on the brown plain, all pointing at the same small piece of sky, like flowers turning toward an invisible sun.",
+        "Lucía Ferrer was twenty-nine and in the second year of her postdoctoral research. Her job was boring, if she was honest. She checked the data from the dishes for errors and noise, and she wrote programs to clean it. Most nights, nothing unusual happened. That was why she noticed immediately when something did.",
+        "At 3:04 in the morning, a pattern appeared on her screen. It was a series of short pulses of radio energy, coming from a point near the center of the galaxy. That alone was not strange. Many natural objects in space, such as pulsars, send out regular pulses. But these pulses were not regular in the normal way. They came in groups. One pulse. Then two. Then three. Then five. Then seven. Then eleven.",
+        "Lucía stared at the screen. Her coffee went cold in her hand.",
+        "One, two, three, five, seven, eleven. With the exception of the first number, they were prime numbers, numbers that can only be divided by one and themselves. She knew that no star, no black hole, no natural process anywhere in the universe produced prime numbers. Only minds did that.",
+        "Then the pattern started again from the beginning."
+      ]
+    },
+    {
+      "title": "2. Checking",
+      "paragraphs": [
+        "Lucía did not call anyone. Not yet. She had read about the history of this kind of moment. In 1967, a student in England named Jocelyn Bell Burnell had found a strange regular signal and her team had jokingly called it “LGM-1”: Little Green Men. It turned out to be the first pulsar ever discovered. A real discovery, but a natural one. Other times, “signals from space” had turned out to be satellites, airplanes, or even a microwave oven in the observatory kitchen.",
+        "So she checked. She asked: was the signal coming from a single direction, or from everywhere? From a single direction. Did it move across the sky with the stars, as the Earth turned? Yes, exactly as a distant object should. Was it detected by all the dishes, or just one? By all of them, in the right order, with the tiny time differences you would expect from a source very far away.",
+        "By six in the morning, as the sun rose red over the mountains, she had run out of ways to explain it. She picked up the phone and called her supervisor, Professor Anand Rao.",
+        "“Anand,” she said. “I need you to come to the control room. And I need you not to laugh.”"
+      ]
+    },
+    {
+      "title": "3. Everyone Wants to Know",
+      "paragraphs": [
+        "Professor Rao did not laugh. He sat in front of her screen for a long time without speaking. Then he made a list of everything else they needed to test, and they worked through it together all day. At the end of the day, the signal was still there, and they still could not explain it.",
+        "Following international rules, they contacted two other observatories, one in Australia and one in South Africa, and asked them to look at the same position in the sky. Within forty-eight hours, both observatories replied. They saw the same signal.",
+        "Somehow, the news escaped. Perhaps someone talked to a friend, or someone saw an email they should not have seen. Soon a website published the headline: “ALIEN MESSAGE DETECTED IN CHILE?” By the next morning, there were television trucks on the dusty road to the observatory, and Lucía’s phone would not stop ringing. Her mother called from Barcelona, crying. Strangers sent her messages, some excited, some frightened, some angry. Religious leaders gave speeches. Stock markets went up and down.",
+        "Lucía found it hard to sleep. She kept thinking: what if it was true? What would they say back? Who had the right to decide? And what if it was not true, and she had started all of this?"
+      ]
+    },
+    {
+      "title": "4. The Answer",
+      "paragraphs": [
+        "On the fifth night, the signal changed. Lucía was alone in the control room again, because she could not sleep anyway. The prime numbers stopped. For a few minutes, there was nothing. Then a new pattern appeared. It was more complex, and it repeated every 1,024 pulses.",
+        "Lucía turned it into an image, line by line, the way scientists had always imagined a real message from space might be sent. Slowly, a picture appeared on her screen. It was a simple diagram. A circle. Several smaller circles around it. Lines connecting them. In one corner, there were some small symbols.",
+        "She looked at the symbols for a long time. Then she started laughing, so hard that she had to hold on to the desk.",
+        "The symbols were letters. Very small, very old-fashioned computer letters. They said: “TEST — DO NOT ANSWER — PROBE 7.”",
+        "It took another week for the whole truth to come out. Fifty years earlier, during the Cold War, a secret military program had launched a small experimental spacecraft into a very distant orbit. Its job was to test communication with long-distance spacecraft. Its instruments had failed, the program had been canceled, and the people who worked on it had almost all retired or died. Everyone had forgotten about it. But somewhere far out in the dark, its tiny computer had woken up, perhaps because of a change in temperature, and started running its test program. The probe’s position just happened to be in the same direction as the center of the galaxy.",
+        "The headlines changed overnight. “ALIEN MESSAGE WAS OLD SPACECRAFT.” Some people were disappointed. Some people were relieved. Many people laughed.",
+        "Lucía expected to be embarrassed. Instead, she was invited to give talks around the world. Her careful checking had been exactly right, people said; every test she had done was the correct one, and she had found something truly unknown, even if it was made by humans. Several governments quietly agreed to share more information about old space programs. And the observatory updated its rules for what to do if a real signal ever arrived.",
+        "A year later, Lucía was back at her desk in the desert at three o’clock in the morning, cleaning data, drinking coffee and watching the screen. Most nights, nothing unusual happened.",
+        "But she still watched carefully. Because one day, she thought, the numbers might come again. And next time, there might be no letters at the end."
+      ]
+    }
+  ]
+}
